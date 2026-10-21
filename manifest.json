@@ -1,0 +1,13 @@
+{
+    "driverId": "mickyngub.emoji-stickers",
+    "driverName": "Emoji Stickers",
+    "driverVersion": "1.0.0",
+    "description": "Every emoji as a big, crisp sticker for your board, in Microsoft's Fluent style. Pick a group such as Smileys, People, Animals & nature or Food & drink, or search by meaning (party, love, lol), then drag an emoji onto the board or click to add it in view, where repeated clicks line up in rows. Choose Shaded or Flat, pick a skin tone for people and hands, a size and an optional name label. Stickers stay sharp when zoomed.",
+    "icon": "icon.png",
+    "main": "main.js",
+    "permissions": [
+        "dom",
+        "scene",
+        "storage"
+    ]
+}
