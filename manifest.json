@@ -1,7 +1,7 @@
 {
     "driverId": "mickyngub.emoji-stickers",
     "driverName": "Emoji Stickers",
-    "driverVersion": "1.0.0",
+    "driverVersion": "1.0.1",
     "description": "React to anything, in one drag. Search over 1,500 Fluent emoji by meaning (party, love, lol) or browse Smileys, People, Animals and more, then drag a sticker onto the board or click to add it in view. Pick Shaded or Flat, choose a skin tone for people and hands, and size it up to XL. Made for votes, retros, lessons and birthday boards.",
     "icon": "icon.png",
     "main": "main.js",

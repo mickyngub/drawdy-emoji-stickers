@@ -1,5 +1,11 @@
 # Changelog
 
+## 1.0.1
+
+- The panel now uses Drawdy's own colours and font, with a more compact header so more emoji fit
+- Group chips scroll with a fade at the edge, and selected options are grey instead of lime
+- Skin tones sit beside the Label option, and the search box has a glyph
+
 ## 1.0.0
 
 First public release
